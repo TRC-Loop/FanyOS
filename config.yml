@@ -1,0 +1,2 @@
+{appDir: Nothing, appExecName: Load.py, appIdentifier: com.trcloop.fos, appRepo: 'http://www.example.com/project.git',
+  backupOn: true, createLaunchScriptOn: false}
